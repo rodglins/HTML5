@@ -1,0 +1,21 @@
+body{
+  background-image: 
+   url("img/ceagesp.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  
+  font-display: helvetica, arial;
+  }
+h1{
+  color:#rgb(34, 8,2);
+  font-style: italic;
+
+}
+.main{
+  background-color: #fff;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #D62828;
+}

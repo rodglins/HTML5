@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(to right, orange, white);
+}
+
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300;
+}
+
+
+nav{
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  border: 9px solid white;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+
+body{
+   background-color: #FCBF49;
+  font-display: helvetica, arial;
+  text-align: center
+  
+  }
+h1{
+  color:#rgb(34, 8,2);
+
+
+}
+.main{
+  background-color: #fff;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 5px;
+
+}
+.links{
+    background-color:#fff;
+    
+    font-display: helvetica, arial;
+    width: 210px;
+    padding: 5px;
+    margin: auto;
+    border-radius: 5px;
+  
+  
+ 
+  }
+    h1{
+   color:#rgb(34, 8,2);
+   font-style: italic;
+
+     }
+    h4{
+   color:black;
+   font-style: italic;
+
+
+}

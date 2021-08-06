@@ -1,0 +1,54 @@
+/* redefinir*/
+
+.active{
+  background-color: #007bff;
+}
+
+.nav-link, .dropdown-item{
+  color: white !important;
+}
+
+.nav-link:hover:not(.active), .dropdown-item:hover{
+  background-color: #7952b3;
+  color: white !important;
+}
+
+.bg-imagem{
+  /* para manter a responsividade utilizamos o viewport */
+  height: 10vw;
+  background-image: url(https://mir-s3-cdn-cf.behance.net/projects/404/de39b3101100261.Y3JvcCwzNTQzLDI3NzEsMCwzODU.jpg); /*Fernanda Mutaf Design */
+  /* cover define que a imagem de fundo será ajustada para cobrir a área do container */
+  background-repeat: auto;
+  background-size: auto; 
+  margin-top: 30px;
+}
+
+.bg-imagem p{
+  text-shadow: 4px 4px 8px black;
+  /* para manter a responsividade utilizamos o viewport */
+  font-size: 4vw; 
+}
+
+.mt-70{
+  margin-top: 70px;
+}
+
+//Estilo agenda//
+
+#agenda th{
+  font-size: 1.5vw;
+}
+
+#agenda td{
+  height: 100px;
+  //100% para colunas//
+  width: 14.29%;
+}
+
+#agenda td.bg-info{
+  color: white;
+}
+
+footer{
+  height: 50px;
+}
