@@ -1,0 +1,4 @@
+# robots.txt
+User-agent: *
+Disallow: /images/
+Sitemap: http://www.micatecbrasil.com.br/sitemap.xml

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.micatecbrasil.com.br/</loc>
+  <priority>1.00</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/index.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/produtos.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/pedido.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/local.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/contato.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/sobre.html</loc>
+  <priority>0.80</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/chapa1.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/arruela.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/mica.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.micatecbrasil.com.br/caneca.html</loc>
+  <priority>0.64</priority>
+  <lastmod>2009-02-14T17:27:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
