@@ -1,0 +1,205 @@
+#camadacategorias{
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+	width: 760px;
+}
+
+#categorias{
+	width: 147px;
+	height: 220px;
+	background-color: #EAECEC;
+	text-align: center;
+	margin: 3px 5px 2px 0px;
+	float: left;
+	color:#000000;
+	font-size: 11px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+#categorias SPAN{
+	font-weight: bold;
+	font-align: center;
+	font-size: 12px;
+	color: #CC0000;
+}
+
+#categorias IMG{
+	margin: 12px 0px 0px 0px;
+}
+
+#categorias P{
+	padding: 0px 5px;
+}
+
+#categorias SPAN A{ text-decoration: none; color: #CC0000;}
+#categorias SPAN A:hover{text-decoration: underline;}
+
+/* ÁREA DE DESTAQUES DO GOVERNO E PROJETOS */
+#coluna1{
+	width: 470px;
+	float: left;
+	margin: 5px 0px 10px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+#coluna1 span{
+	font-weight: bold;
+	color: #000000;
+	font-size: 12px;
+}
+
+#coluna1 span a{
+	text-decoration: none;
+	color: #000000;
+}
+
+#coluna1 span a:hover{
+	text-decoration: underline;
+	color: #FF6600;
+}
+
+#coluna1 .campos{
+	background-color: #E8F1F7;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid black;
+}
+
+
+/* CSS DOS LINKS PARA OS PERFIS DOS PROJETOS SOCIAIS */
+#coluna1 .perfis{
+	color: #000000;
+	text-decoration: none;
+}
+
+#coluna1 .perfis:hover{
+	color: #FF6600;
+	text-decoration: underline;
+}
+
+#coluna1 #acessorapido{
+	width: 450px;
+	padding: 3px 0px;
+	margin: 0px;
+	border: 1px dashed #666666;
+	background-color: #F2F2F2;
+	font-size: 11px;
+	font-weight: normal;
+	font-family: "Trebuchet MS",  Arial, Helvetica, sans-serif;
+	color: #003366;
+	text-align: center;
+	border: 1px dashed #999999;
+	clear: both;
+}
+
+#coluna1 #acessorapido span{font-weight: bold;}
+#coluna1 #acessorapido a{color: #003366; text-decoration: none;}
+#coluna1 #acessorapido a:hover{color: #FF6600; text-decoration: underline;}
+
+#coluna1 #servicos{
+	width: 140px;
+	float: left;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	text-align: left;
+	vertical-align: middle;
+	margin: 25px 4px 0px 4px;
+}
+
+#coluna1 #servicos a{color:#000000; text-decoration: none;}
+#coluna1 #servicos a:hover{color: #FF6600; text-decoration: underline;}
+
+#coluna1 #servicos li {list-style-image: url(imgs/bullet.gif);}
+#coluna1 #servicos li a {font-size: 12px; margin-left: 0px;}
+
+
+/* ÁREA DE DESTAQUE E NOTÍCIAS */
+
+#coluna2{
+	width: 270px;
+	float: left;
+	margin: 1px 0px 10px;
+}
+
+#coluna2 #destaque{
+	width: 100%;
+	border: 2px solid #3298C9; /* #92CDFE */
+	background-color: #F4F9FB; /* #E8F9FF */
+	height: 200px;
+	font-size: 11px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	margin-top: 5px;
+}
+
+#coluna2 #destaque a{color: #000000; text-decoration: none;}
+#coluna2 #destaque a:hover{color: #FF6600; text-decoration: underline;}
+
+#coluna2 #destaque img{
+	vertical-align: middle;
+	float: left;
+	margin: 2px 2px 4px;
+}
+
+#coluna2 #destaque span{
+	font-weight: bold;
+	font-size: 12px;
+	color: #CC0000;
+}
+
+#coluna2 #destaque p{}
+
+#coluna2 #clipping{
+	width: 100%;
+	border: 2px solid #3298C9; /* #92CDFE */
+	background-color: #F4F9FB; /* #E8F9FF */
+	margin-top: 8px;
+	font-size: 11px;
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: left;
+	padding: 3px 0px;
+}
+
+#coluna2 #clipping span{
+	font-weight: bold;
+	font-size: 12px;
+	color: #CC0000;
+}
+
+#coluna2 #clipping p{text-align: left; padding: 0px 2px;}
+
+#coluna2 #clipping a{ 
+	color: #000;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+#coluna2 #clipping a:hover{
+	text-decoration: underline;
+	color: #FF6600;
+}
+
+#coluna2 #clipping .maisnot{text-align: right;}
+#coluna2 #clipping .maisnotlinks{font-weight: bold; text-decoration: none;}
+#coluna2 #clipping .maisnotlinks:hover{text-decoration: underline;}
+
+
+.camposbtn {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #000000;
+	font-weight: bold;
+	background-color: #F8F8F8;
+}
+
+.campostxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #000000;
+}
